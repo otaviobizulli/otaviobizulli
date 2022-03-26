@@ -9,4 +9,10 @@
   
 ![Skills:](https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/skills.png)
   
-<a href="linktr.ee/tavin" ![SocialMedia](https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/socialmedia.png)> ![Godspeed](https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/godspeed.png)
+<div align="center">
+  <a href="https://linktr.ee/tavin"> 
+  <img src="https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/socialmedia.png"/>
+  <a href="https://www.youtube.com/watch?v=76C0oX31YUQ"> 
+  <img src="https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/godspeed.png"/>
+</div> 
+
