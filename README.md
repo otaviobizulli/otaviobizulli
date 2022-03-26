@@ -16,7 +16,7 @@
 <div align="center">
   <a href="https://linktr.ee/tavin"> 
   <img src="https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/newsocialmedia.png"/>
-  <a href="https://www.youtube.com/watch?v=76C0oX31YUQ"> 
+  <a href="https://translate.google.com.br/?hl=pt-BR&sl=en&tl=pt&text=godspeed&op=translate"> 
   <img src="https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/newgodspeed.png"/>
 </div> 
 
