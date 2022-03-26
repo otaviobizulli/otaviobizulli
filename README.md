@@ -9,14 +9,14 @@
   
 <div align="center">
   <a href="https://github.com/otaviobizulli">
-  <img src="https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/skills.png"/>
+  <img src="https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/newskills.png"/>
 </div>
   
   
 <div align="center">
   <a href="https://linktr.ee/tavin"> 
-  <img src="https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/socialmedia.png"/>
+  <img src="https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/newsocialmedia.png"/>
   <a href="https://www.youtube.com/watch?v=76C0oX31YUQ"> 
-  <img src="https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/godspeed.png"/>
+  <img src="https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/newgodspeed.png"/>
 </div> 
 
