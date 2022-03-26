@@ -1,4 +1,4 @@
-![Prazer, Tavinho!](https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/prazertavinho.png)
+![Prazer, Tavinho!](https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/newprazer.png)
 
 <div align="center">
   <a href="https://github.com/otaviobizulli">
