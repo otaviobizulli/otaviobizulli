@@ -6,9 +6,12 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviobizulli&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
 
-<div align="center"> 
+  
+<div align="center">
+  <a href="https://github.com/otaviobizulli">
   <img src="https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/skills.png"/>
 </div>
+  
   
 <div align="center">
   <a href="https://linktr.ee/tavin"> 
