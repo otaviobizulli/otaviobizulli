@@ -1,4 +1,4 @@
-![Prazer, Tavinho!](https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/newprazer.png)
+![Prazer, Tavinho!](https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/gitprazer.png)
 
 <div align="center">
   <a href="https://github.com/otaviobizulli">
@@ -9,14 +9,14 @@
   
 <div align="center">
   <a href="https://github.com/otaviobizulli">
-  <img src="https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/newskills.png"/>
+  <img src="https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/gitskills.png"/>
 </div>
   
   
 <div align="center">
   <a href="https://linktr.ee/tavin"> 
-  <img src="https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/newsocialmedia.png"/>
+  <img src="https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/gitsocialmedia.png"/>
   <a href="https://translate.google.com.br/?hl=pt-BR&sl=en&tl=pt&text=godspeed&op=translate"> 
-  <img src="https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/newgodspeed.png"/>
+  <img src="https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/gitgodspeed.png"/>
 </div> 
 
