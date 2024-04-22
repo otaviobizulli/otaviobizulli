@@ -14,7 +14,7 @@
   
   
 <div align="center">
-  <a href="https://linktr.ee/tavin"> 
+  <a href="https://linktr.ee/bizulli"> 
   <img src="https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/gitsocialmedia.png"/>
   <a href="https://translate.google.com.br/?hl=pt-BR&sl=en&tl=pt&text=godspeed&op=translate"> 
   <img src="https://raw.githubusercontent.com/otaviobizulli/otaviobizulli/main/gitgodspeed.png"/>
